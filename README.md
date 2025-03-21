@@ -42,7 +42,7 @@ AIPodcasts is an AI-powered platform that automates podcast creation, allowing u
 
 ## 🎁 Exclusive Offer & Bonuses
 
-📅 Join our **LIVE Webinar** on **March 25 at 10 AM EST** for a chance to win a **FREE AIPodcasts subscription + $150 in credits!**
+📅 Join our **LIVE Webinar**  for a chance to win a **FREE AIPodcasts subscription + $150 in credits!**
 
 🎁 **Don’t miss out on this limited-time opportunity!** → [Sign up for the webinar](https://worxclub.com/aipodcasts)
 
