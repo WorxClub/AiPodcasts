@@ -1,6 +1,6 @@
 # AIPodcasts Review - Monetize & Automate Podcast Creation with AI
 
-![AIPodcasts](https://www.aipodcasts.io/assets/logo.png)
+
 
 AIPodcasts is an AI-powered platform that automates podcast creation, allowing users to generate professional-quality podcasts without recording a single word. Whether you want to launch a podcasting agency, monetize a faceless podcast, or grow your business through audio content, AIPodcasts makes it effortless.
 
